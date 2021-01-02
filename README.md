@@ -1,4 +1,4 @@
-# Hi, Dawid J (aka. Ernest Gupik) here 👋
+# Hi, Ernest here 👋
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Ernest1338&theme=blue-green)](ErnestG)
 
