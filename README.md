@@ -2,8 +2,6 @@
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Ernest1338&theme=blue-green)](ErnestG)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernest1338&theme=blue-green)
-
 <!--
 **Ernest1338/Ernest1338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
