@@ -1,4 +1,4 @@
-# Hi, Ernest here 👋
+# Hi, Ernest (Dawid) here 👋
 
 <p align="center">
     <a href="https://github.com/Ernest1338/">
