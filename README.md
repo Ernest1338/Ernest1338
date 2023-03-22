@@ -1,7 +1,7 @@
 # Hi, Ernest (Dawid) here 👋
 
 <p align="center">
-    <a href="https://github.com/Ernest1338/">
+    <a href="https://github.com/GrzegorzSzczepanek/">
         <img src="https://github-readme-stats.vercel.app/api?username=Ernest1338&theme=blue-green" alt="ErnestG" />
     </a>
 </p>
