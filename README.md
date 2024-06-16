@@ -8,7 +8,7 @@ I'm a passionate 20-year-old student from Poland with a particular interest in t
 In addition to attending various conferences, I have experience working with several programming languages such as Rust, Lua, and Python, as well as tools like Docker and many more. While I can handle website development tasks, it is not my primary focus. I know English pretty well. <br>
 
 Apart from my technical pursuits, I also enjoy engaging in other hobbies including Artificial Intelligence (AI) and Machine Learning (ML), Speedcubing, Chess, and Gaming. <br><br>
-Currently learning <a href="https://nixos.org/">Nix and NixOS</a>. <br>
+Currently learning `Web Security`. <br>
 
 <p align="center">
   <a href="https://github.com/Ernest1338/">
