@@ -1,9 +1,9 @@
 <h1 align=center>Hi, Ernest (Dawid) here 👋</h1>
 
-<h3 align=center>🔭 I'm a 20 years old Polish student with passion for Programming and Cybersecurity </h3>
+<h3 align=center>🔭 I'm a 21 years old Polish student with passion for Programming and Cybersecurity </h3>
 
 <h2 align=center>About me</h2>
-I'm a passionate 20-year-old student from Poland with a particular interest in the fields of CyberSecurity, Programming, and Linux. As an active member of the <a href="https://whitehats.pwr.edu.pl/">WhiteHats PWr</a> academic circle, I am constantly seeking opportunities to expand my knowledge and skills within these areas. My love for technology began at a young age, as I started coding when I was nine years old. <br><br>
+I'm a passionate 21-year-old student from Poland with a particular interest in the fields of CyberSecurity, Programming, and Linux. As an active member of the <a href="https://whitehats.pwr.edu.pl/">WhiteHats PWr</a> academic circle, I am constantly seeking opportunities to expand my knowledge and skills within these areas. My love for technology began at a young age, as I started coding when I was nine years old. <br><br>
 
 In addition to attending various conferences, I have experience working with several programming languages such as Rust, Lua, and Python, as well as tools like Docker and many more. While I can handle website development tasks, it is not my primary focus. I know English pretty well. <br>
 
